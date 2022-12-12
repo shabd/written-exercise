@@ -1,0 +1,7 @@
+Hi Joe,
+We're excited to be working on your mobile fin-tech product and are looking forward to integrating our component into your transaction flow. In order to ensure a smooth implementation, we need to understand a few details about your transaction flows.
+Based on our experience, we recommend setting up a streaming / real-time endpoint for your transaction flows. This will allow for more efficient and timely processing of transactions. However, we understand that this may require additional work on the part of your technical team, so if you prefer, we can also set up a nightly batch upload process instead.
+Additionally, we need to know how many different transaction flows there are, the volume and velocity of the flows, and how different (the variety) they are in order to determine whether we can use a single schema for all transactions or if multiple schemas are needed. This will also help us determine the amount of infrastructure we need to provision for this integration.
+We want to make sure that we provide the appropriate level of support for your product while also being mindful of your budget constraints. Let us know if you have any questions or concerns and we will be happy to discuss them further.
+Best regards,
+Shabd
